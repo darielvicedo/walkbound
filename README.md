@@ -1,63 +1,63 @@
 # WALKBOUND
 
-> The next hiking experience.
+> La próxima experiencia de senderismo.
 
-Walkbound is a hiking application that transforms the user's real-world walks into virtual journeys through some of the world's most famous trails, historical routes, and fantasy worlds.
+Walkbound es una aplicación de senderismo que transforma las caminatas reales del usuario en viajes virtuales a través de algunos de los senderos, rutas históricas y mundos de fantasía más famosos del mundo.
 
-**The user walks wherever they are. The app turns those kilometers into progress within the adventure they have chosen.**
+**El usuario camina dondequiera que esté. La aplicación convierte esos kilómetros en progreso dentro de la aventura que ha elegido.**
 
-## CONCEPT
+## CONCEPTO
 
-Many of the world's great hiking routes require time, money, and travel that are not accessible to everyone.
+Muchas de las grandes rutas de senderismo del mundo requieren tiempo, dinero y desplazamientos que no están al alcance de todos.
 
-Someone may want to hike the **Camino de Santiago**, the **Appalachian Trail**, or the **Tour du Mont Blanc**, but live thousands of miles away.
+Alguien puede querer recorrer el **Camino de Santiago**, el **Appalachian Trail** o el **Tour du Mont Blanc**, pero vivir a miles de kilómetros de distancia.
 
-Walkbound removes that barrier.
+Walkbound elimina esa barrera.
 
-The user selects a virtual expedition and starts walking in their own surroundings.
+El usuario selecciona una expedición virtual y comienza a caminar en su propio entorno.
 
-If the expedition is 780 km long and the user walks 8 km:
+Si la expedición tiene 780 km y el usuario camina 8 km:
 
 ```text
 Camino de Santiago
 ████████░░░░░░░░░░░░  8 / 780 km
 ```
 
-Those 8 kilometers are reflected on the virtual map as if the user had advanced 8 kilometers along the Camino de Santiago.
+Esos 8 kilómetros se reflejan en el mapa virtual como si el usuario hubiera avanzado 8 kilómetros por el Camino de Santiago.
 
-The user can be walking in Miami, Madrid, Havana, or Tokyo.
+El usuario puede estar caminando en Miami, Madrid, La Habana o Tokio.
 
-**Their body stays in their surroundings. Their journey takes place on the map.**
+**Su cuerpo permanece en su entorno. Su viaje ocurre en el mapa.**
 
-## VALUE PROPOSITION
+## PROPUESTA DE VALOR
 
-Walkbound combines three concepts:
+Walkbound combina tres conceptos:
 
-- **Physical activity**
-- **Exploration**
-- **Gamification**
+- **Actividad física**
+- **Exploración**
+- **Gamificación**
 
-Traditional hiking apps mainly answer:
+Las aplicaciones tradicionales de senderismo responden principalmente:
 
-> Where can I walk?
+> ¿Dónde puedo caminar?
 
-Walkbound answers a different question:
+Walkbound responde a una pregunta diferente:
 
-> **What adventure do I want to experience while I walk?**
+> **¿Qué aventura quiero vivir mientras camino?**
 
-The app turns an everyday activity into an expedition.
+La aplicación convierte una actividad cotidiana en una expedición.
 
-### PRACTICAL EXAMPLE: CAMINO DE SANTIAGO
+### EJEMPLO PRÁCTICO: CAMINO DE SANTIAGO
 
-The user selects:
+El usuario selecciona:
 
 **Camino de Santiago**
 
-Distance:
+Distancia:
 
 **≈ 780 km**
 
-The app divides the route into stages.
+La aplicación divide la ruta en etapas.
 
 ```text
 Saint-Jean-Pied-de-Port
@@ -77,33 +77,33 @@ León
 Santiago de Compostela
 ```
 
-The user walks in their own city.
+El usuario camina en su propia ciudad.
 
-After completing a given distance, the app updates their virtual position.
+Después de completar una determinada distancia, la aplicación actualiza su posición virtual.
 
-For example:
+Por ejemplo:
 
-> **Stage completed**
+> **Etapa completada**
 >
-> You have reached Roncesvalles.
+> Has llegado a Roncesvalles.
 >
-> 24.5 km completed.
+> 24,5 km completados.
 
-The user can unlock information, photographs, history, and content related to each stage.
+El usuario puede desbloquear información, fotografías, historia y contenido relacionado con cada etapa.
 
-## BEYOND THE REAL WORLD
+## MÁS ALLÁ DEL MUNDO REAL
 
-The concept does not have to be limited to existing routes.
+El concepto no tiene por qué limitarse a rutas existentes.
 
-Walkbound can create three major categories of expeditions.
+Walkbound puede crear tres grandes categorías de expediciones.
 
-### REAL-WORLD ROUTES
+### RUTAS DEL MUNDO REAL
 
 - Camino de Santiago
 - Appalachian Trail
 - Pacific Crest Trail
 
-### HISTORICAL ROUTES
+### RUTAS HISTÓRICAS
 
 - The Marco Polo Route
 
@@ -119,7 +119,7 @@ Asia Central
 China
 ```
 
-### FICTIONAL WORLDS
+### MUNDOS DE FICCIÓN
 
 - Middle-earth
 
@@ -141,25 +141,25 @@ Minas Tirith
 Mordor
 ```
 
-The user can be walking through an urban park while their avatar advances toward Mordor.
+El usuario puede estar caminando por un parque urbano mientras su avatar avanza hacia Mordor.
 
-## GAMIFICATION
+## GAMIFICACIÓN
 
-The app should make walking produce a tangible sense of progress.
+La aplicación debe hacer que caminar produzca una sensación tangible de progreso.
 
-The user does not simply accumulate kilometers.
+El usuario no se limita a acumular kilómetros.
 
-They can also:
+También puede:
 
-- complete stages;
-- unlock locations;
-- earn achievements;
-- discover points of interest;
-- keep expeditions active;
-- reach destinations;
-- complete challenges;
-- compete with friends;
-- participate in group expeditions.
+- completar etapas;
+- desbloquear lugares;
+- conseguir logros;
+- descubrir puntos de interés;
+- mantener expediciones activas;
+- alcanzar destinos;
+- completar desafíos;
+- competir con amigos;
+- participar en expediciones grupales.
 
 ```text
 EXPEDICIÓN: CAMINO DE SANTIAGO
@@ -168,77 +168,77 @@ EXPEDICIÓN: CAMINO DE SANTIAGO
 
 16 % COMPLETADO
 
-Stages: 5 / 33
-Days walking: 18
-Cumulative elevation gain: 3.420 m
+Etapas: 5 / 33
+Días caminando: 18
+Desnivel acumulado: 3.420 m
 
-DESTINATION:
+DESTINO:
 Santiago de Compostela
 ```
 
-The app turns fitness data into a story of progress.
+La aplicación convierte los datos de actividad física en una historia de progreso.
 
-### STAGE SYSTEM
+### SISTEMA DE ETAPAS
 
-Routes are divided into recognizable segments.
+Las rutas se dividen en segmentos reconocibles.
 
-Each stage can represent:
+Cada etapa puede representar:
 
-- a town;
-- a mountain;
-- a shelter;
-- a monument;
-- a border;
-- a historical event;
-- a fictional location.
+- una localidad;
+- una montaña;
+- un refugio;
+- un monumento;
+- una frontera;
+- un acontecimiento histórico;
+- un lugar ficticio.
 
-This allows a long expedition to have smaller intermediate goals.
+Esto permite que una expedición larga tenga objetivos intermedios más pequeños.
 
-Instead of:
+En lugar de pensar:
 
-> "I have to walk 780 km."
+> "Tengo que caminar 780 km."
 
-the user thinks:
+el usuario piensa:
 
-> "I want to reach the next stage."
+> "Quiero llegar a la siguiente etapa."
 
-This psychologically reduces the difficulty of major challenges.
+Esto reduce psicológicamente la dificultad de los grandes desafíos.
 
-### 1:1 SYSTEM
+### SISTEMA 1:1
 
-The initial system can use an extremely simple rule:
+El sistema inicial puede utilizar una regla extremadamente sencilla:
 
-> **1 real km = 1 virtual km.**
+> **1 km real = 1 km virtual.**
 
-This allows the user to immediately understand how it works.
+Esto permite que el usuario entienda inmediatamente cómo funciona.
 
-It does not matter where they walk.
+No importa dónde camine.
 
-One kilometer walked in:
+Un kilómetro recorrido en:
 
 - Miami
 - La Habana
 - Madrid
 
-represents one kilometer of progress in the selected expedition.
+representa un kilómetro de progreso en la expedición seleccionada.
 
-Additional factors could later be incorporated related to:
+Más adelante podrían incorporarse factores adicionales relacionados con:
 
-- elevation gain;
-- difficulty;
-- time;
-- frequency;
-- special challenges.
+- desnivel acumulado;
+- dificultad;
+- tiempo;
+- frecuencia;
+- desafíos especiales.
 
-But the initial system should remain simple and transparent.
+Pero el sistema inicial debe mantenerse simple y transparente.
 
-## MULTIPLAYER
+## MULTIJUGADOR
 
-One of the most interesting possibilities of the concept is turning virtual routes into social experiences.
+Una de las posibilidades más interesantes del concepto es convertir las rutas virtuales en experiencias sociales.
 
-Two people living in completely different places can take part in the same expedition simultaneously.
+Dos personas que viven en lugares completamente diferentes pueden participar simultáneamente en la misma expedición.
 
-For example:
+Por ejemplo:
 
 ```text
 CAMINO DE SANTIAGO
@@ -250,97 +250,97 @@ CAMINO DE SANTIAGO
 62% completed
 ```
 
-Each participant physically walks in their own surroundings.
+Cada participante camina físicamente en su propio entorno.
 
-However, everyone progresses along the same virtual Camino de Santiago.
+Sin embargo, todos avanzan por el mismo Camino de Santiago virtual.
 
-This makes it possible to create:
+Esto permite crear:
 
-- private groups;
-- family expeditions;
-- groups of friends;
-- hiking clubs;
-- corporate challenges;
-- international communities;
-- competitions;
-- cooperative expeditions.
+- grupos privados;
+- expediciones familiares;
+- grupos de amigos;
+- clubes de senderismo;
+- desafíos corporativos;
+- comunidades internacionales;
+- competiciones;
+- expediciones cooperativas;
 
-Walkbound could thus become a kind of **asynchronous multiplayer hiking**.
+Walkbound podría convertirse así en una especie de **senderismo multijugador asíncrono**.
 
-## TRAINING SYSTEM
+## SISTEMA DE ENTRENAMIENTO
 
-There is also a second use case.
+También existe un segundo caso de uso.
 
-Someone planning to physically hike a route can use the app to prepare.
+Alguien que planea recorrer físicamente una ruta puede utilizar la aplicación para prepararse.
 
-For example:
+Por ejemplo:
 
 > "I want to hike the Camino de Santiago next year."
 
-They can start virtually from home.
+Puede comenzar virtualmente desde casa.
 
-After completing the 780 virtual km, they will have:
+Después de completar los 780 km virtuales, habrá:
 
-- accumulated kilometers;
-- built a habit;
-- improved their fitness;
-- learned about the route;
-- become familiar with its stages;
-- experienced the route virtually.
+- acumulado kilómetros;
+- creado un hábito;
+- mejorado su condición física;
+- aprendido sobre la ruta;
+- se habrá familiarizado con sus etapas;
+- experimentado virtualmente la ruta.
 
-The app can become the bridge between:
+La aplicación puede convertirse en el puente entre:
 
-**dreaming about a trip → preparing for it → physically taking it.**
+**soñar con un viaje → prepararse para él → realizarlo físicamente.**
 
-## TARGET AUDIENCE
+## PÚBLICO OBJETIVO
 
-Walkbound can target several segments:
+Walkbound puede dirigirse a varios segmentos:
 
-- Hikers: people who already enjoy walking and want new goals.
-- Beginners: people who need additional motivation to start walking.
-- Travelers: people interested in routes they cannot physically hike yet.
-- Constraints: people with limited time or budget.
-- Fiction communities: fantasy, science fiction, literature, video games, film, or narrative universes.
-- Groups and organizations: hiking clubs, companies, schools, sports organizations, and online communities.
+- Senderistas: personas que ya disfrutan caminar y quieren nuevos objetivos.
+- Principiantes: personas que necesitan motivación adicional para empezar a caminar.
+- Viajeros: personas interesadas en rutas que todavía no pueden recorrer físicamente.
+- Personas con limitaciones: personas con poco tiempo o presupuesto.
+- Comunidades de ficción: fantasía, ciencia ficción, literatura, videojuegos, cine o universos narrativos.
+- Grupos y organizaciones: clubes de senderismo, empresas, escuelas, organizaciones deportivas y comunidades online.
 
-## CONCEPTUAL ADVANTAGE
+## VENTAJA CONCEPTUAL
 
-The market already has excellent apps for tracking physical activity and excellent platforms for discovering trails.
+El mercado ya cuenta con excelentes aplicaciones para registrar actividad física y excelentes plataformas para descubrir senderos.
 
-Walkbound proposes a different layer.
+Walkbound propone una capa diferente.
 
-It does not try to compete solely on:
+No intenta competir únicamente en:
 
-**"better GPS"**
+**"mejor GPS"**
 
 o
 
-**"more local routes".**
+**"más rutas locales".**
 
 Su propuesta es:
 
-> **Turn any walk into an adventure.**
+> **Convierte cualquier caminata en una aventura.**
 
-The real route can be anywhere.
+La ruta real puede estar en cualquier lugar.
 
-The adventure can be anywhere in the world.
+La aventura puede estar en cualquier lugar del mundo.
 
-## LIBRARY
+## BIBLIOTECA
 
-The product can grow through a library of adventures.
+El producto puede crecer mediante una biblioteca de aventuras.
 
-- Routes from around the world.
-- History.
-- Nature.
-- Literature.
-- Fantasy.
-- Science Fiction.
-- Mythology.
-- Challenges.
+- Rutas de todo el mundo.
+- Historia.
+- Naturaleza.
+- Literatura.
+- Fantasía.
+- Ciencia ficción.
+- Mitología.
+- Desafíos.
 
-Each new expedition increases the value of the platform without changing its core mechanics.
+Cada nueva expedición aumenta el valor de la plataforma sin cambiar sus mecánicas fundamentales.
 
-The engine is always the same:
+El motor siempre es el mismo:
 
 ```text
 REAL WALK
@@ -356,11 +356,11 @@ STAGES
 DESTINATION
 ```
 
-### COMMUNITY-CREATED
+### CREADO POR LA COMUNIDAD
 
-At a later stage, users could create their own expeditions.
+En una etapa posterior, los usuarios podrían crear sus propias expediciones.
 
-A user could design:
+Un usuario podría diseñar:
 
 > "Canary Islands Volcano Route — 180 km"
 
@@ -368,110 +368,110 @@ Otro podría crear:
 
 > "Historical Route of the French Revolution — 350 km"
 
-And other users could hike them.
+Y otros usuarios podrían recorrerlas.
 
-This could transform the platform into a user-generated content ecosystem.
+Esto podría transformar la plataforma en un ecosistema de contenido generado por los usuarios.
 
-## BUSINESS MODEL
+## MODELO DE NEGOCIO
 
-The product can evolve into a freemium model.
+El producto puede evolucionar hacia un modelo freemium.
 
-### FREE
+### GRATUITO
 
-- GPS tracking;
-- basic expeditions;
-- statistics;
-- challenges;
-- selected routes.
+- seguimiento GPS;
+- expediciones básicas;
+- estadísticas;
+- desafíos;
+- rutas seleccionadas.
 
 ### PREMIUM
 
-- full library;
-- special expeditions;
-- historical content;
-- advanced statistics;
-- exclusive expeditions;
-- advanced social features;
-- customization.
+- biblioteca completa;
+- expediciones especiales;
+- contenido histórico;
+- estadísticas avanzadas;
+- expediciones exclusivas;
+- funciones sociales avanzadas;
+- personalización.
 
-Individual expeditions or packages:
+Expediciones individuales o paquetes:
 
 - Camino de Santiago
 - Ruta de Marco Polo
-- Great European routes
-- Great American routes
-- Historical expeditions
+- Grandes rutas europeas
+- Grandes rutas americanas
+- Expediciones históricas
 
-### LICENSING AND PARTNERSHIPS
+### LICENCIAS Y ALIANZAS
 
-There is also potential for agreements with:
+También existe potencial para acuerdos con:
 
-- tourism organizations;
-- destinations;
-- natural parks;
-- authors;
-- publishers;
-- franchises;
-- sports brands;
-- hiking organizations.
+- organizaciones turísticas;
+- destinos;
+- parques naturales;
+- autores;
+- editoriales;
+- franquicias;
+- marcas deportivas;
+- organizaciones de senderismo.
 
 ## MVP
 
-The first product does not need to implement the entire concept.
+El primer producto no necesita implementar todo el concepto.
 
-The MVP can focus on an extremely simple experience.
+El MVP puede centrarse en una experiencia extremadamente sencilla.
 
-### CORE FEATURES
+### FUNCIONES PRINCIPALES
 
-1. Create an account.
-2. Select an expedition.
-3. View the expedition map.
-4. Start a walk.
-5. Track GPS and distance.
-6. Convert real kilometers into virtual progress.
-7. Show the position within the expedition.
-8. Divide the route into stages.
-9. Show progress and statistics.
-10. Complete stages and destinations.
+1. Crear una cuenta.
+2. Seleccionar una expedición.
+3. Ver el mapa de la expedición.
+4. Iniciar una caminata.
+5. Registrar GPS y distancia.
+6. Convertir kilómetros reales en progreso virtual.
+7. Mostrar la posición dentro de la expedición.
+8. Dividir la ruta en etapas.
+9. Mostrar progreso y estadísticas.
+10. Completar etapas y destinos.
 
-### FIRST ADVENTURE
+### PRIMERA AVENTURA
 
-An initial version could use a single well-known route.
+Una versión inicial podría utilizar una única ruta conocida.
 
-For example:
+Por ejemplo:
 
 **Camino de Santiago**
 
-This would allow the core hypothesis to be validated before building a full library.
+Esto permitiría validar la hipótesis principal antes de construir una biblioteca completa.
 
-### HYPOTHESIS TO VALIDATE
+### HIPÓTESIS A VALIDAR
 
-The product must answer one fundamental question:
+El producto debe responder una pregunta fundamental:
 
-> **Will people walk more because they feel they are traveling toward somewhere?**
+> **¿Caminarán más las personas porque sienten que están viajando hacia algún lugar?**
 
-If the answer is yes, the concept can expand.
+Si la respuesta es sí, el concepto puede expandirse.
 
-The most important initial metrics would be:
+Las métricas iniciales más importantes serían:
 
-- kilometers walked per user;
-- weekly frequency;
-- sessions per user;
-- percentage of expeditions completed;
-- retention;
-- number of stages completed;
-- users who start a second expedition;
-- participation in group expeditions.
+- kilómetros caminados por usuario;
+- frecuencia semanal;
+- sesiones por usuario;
+- porcentaje de expediciones completadas;
+- retención;
+- número de etapas completadas;
+- usuarios que comienzan una segunda expedición;
+- participación en expediciones grupales.
 
-### LONG TERM
+### LARGO PLAZO
 
-Walkbound can evolve from a walking-tracking app into a **global platform for virtual adventures based on physical activity**.
+Walkbound puede evolucionar de una aplicación de seguimiento de caminatas a una **plataforma global de aventuras virtuales basadas en actividad física**.
 
-The ultimate vision is for anyone to be able to open the app and choose:
+La visión final es que cualquier persona pueda abrir la aplicación y elegir:
 
-> **Where do you want to go?**
+> **¿Adónde quieres ir?**
 
-They can answer:
+Puede responder:
 
 > Santiago de Compostela.
 
@@ -487,49 +487,49 @@ O:
 
 > The Appalachian Trail.
 
-Or simply:
+O simplemente:
 
-> I want to walk 1,000 km this year.
+> Quiero caminar 1.000 km este año.
 
-The app turns every real walk into progress within that journey.
+La aplicación convierte cada caminata real en progreso dentro de ese viaje.
 
-## VISION
+## VISIÓN
 
-The world is full of places people want to see but may never be able to visit.
+El mundo está lleno de lugares que las personas quieren conocer pero que quizá nunca puedan visitar.
 
-Time, money, distance, and personal circumstances are real barriers.
+El tiempo, el dinero, la distancia y las circunstancias personales son barreras reales.
 
-Walkbound does not aim to replace physical travel.
+Walkbound no pretende sustituir los viajes físicos.
 
 Pretende ofrecer algo diferente:
 
-**the possibility of starting the journey today.**
+**la posibilidad de comenzar el viaje hoy.**
 
-It does not matter where you are.
+No importa dónde estés.
 
-You do not need an airplane.
+No necesitas un avión.
 
-You do not need to be physically on the route.
+No necesitas estar físicamente en la ruta.
 
-You only need to walk.
+Solo necesitas caminar.
 
 > **Your surroundings are the trail.  
 > The world is your destination.**
 
-## PROJECT STATUS
+## ESTADO DEL PROYECTO
 
-This repository is the starting point for defining, validating, and developing the product.
+Este repositorio es el punto de partida para definir, validar y desarrollar el producto.
 
-### Next Steps
+### Próximos pasos
 
-- [ ] Define name and brand identity
-- [ ] Design the user experience
-- [ ] Define the technical architecture
-- [ ] Select a maps and GPS provider
-- [ ] Design the expedition system
-- [ ] Create a functional prototype
-- [ ] Implement the first route
-- [ ] Conduct user testing
-- [ ] Measure retention and usage frequency
-- [ ] Validate the business model
-- [ ] Prepare expansion of the expedition library
+- [ ] Definir el nombre y la identidad de marca
+- [ ] Diseñar la experiencia de usuario
+- [ ] Definir la arquitectura técnica
+- [ ] Seleccionar un proveedor de mapas y GPS
+- [ ] Diseñar el sistema de expediciones
+- [ ] Crear un prototipo funcional
+- [ ] Implementar la primera ruta
+- [ ] Realizar pruebas con usuarios
+- [ ] Medir la retención y la frecuencia de uso
+- [ ] Validar el modelo de negocio
+- [ ] Preparar la expansión de la biblioteca de expediciones
